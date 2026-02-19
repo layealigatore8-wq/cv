@@ -47,13 +47,13 @@ st.write(" ▶️Instructeur Renseignement général chaine renseiment militaire
 st.write(" ▶️Instructeur drone chaine renseignement militaire ")
 
 with st.sidebar:
-st.subheader("📌Abdoulaye DIAO")
-st.subheader("🏠Adresse")
-st.write("Dakar")
-st.subheader("📩email")
-st.write("layealigatore8@gmail.com")
-st.subheader("📞Contact")
-st.write(776581315)
+        st.subheader("📌Abdoulaye DIAO")
+        st.subheader("🏠Adresse")
+        st.write("Dakar")
+        st.subheader("📩email")
+        st.write("layealigatore8@gmail.com")
+        st.subheader("📞Contact")
+        st.write(776581315)
 
 
     
