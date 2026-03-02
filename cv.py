@@ -48,7 +48,8 @@ st.write(" ▶️Instructeur drone chaine renseignement militaire ")
 
 with st.sidebar:
         with st.sidebar:
-    st.image("AB.jpg", width=200)
+    st.subheader("📌Abdoulaye DIAO")
+    st.image("AB.jpg"), width=200
     st.subheader("📌Abdoulaye DIAO")
     st.subheader("🏠Adresse")
     st.write("Dakar")
